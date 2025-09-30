@@ -206,14 +206,10 @@ Or in the terminal:
 python -c "import secrets; print(secrets.token_hex(16))"
 ```
 
-
-
-
---- 
-
-<img width="500px" alt="image" src="https://github.com/user-attachments/assets/33c0594d-0047-4881-b19c-0c26dc39e147" />
-<img width="500px" alt="image" src="https://github.com/user-attachments/assets/b65467f0-4730-4296-95a6-9c17c131b86b" />
-
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/33c0594d-0047-4881-b19c-0c26dc39e147" width="45%" />
+  <img src="https://github.com/user-attachments/assets/b65467f0-4730-4296-95a6-9c17c131b86b" width="45%" />
+</div>
 
 
 
