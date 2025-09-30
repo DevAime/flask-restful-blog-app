@@ -205,7 +205,7 @@ Or in the terminal:
 ```bash
 python -c "import secrets; print(secrets.token_hex(16))"
 ```
-
+## Images
 
 <img src="https://github.com/user-attachments/assets/33c0594d-0047-4881-b19c-0c26dc39e147" width="60%"/>  
 
