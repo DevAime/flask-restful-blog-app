@@ -206,22 +206,10 @@ Or in the terminal:
 python -c "import secrets; print(secrets.token_hex(16))"
 ```
 
-
-## Security Notes
-
-⚠️ **Important**: Before deploying to production:
-- ✅ Change the `SECRET_KEY` to a secure random value
-- ✅ Never commit `.env` file to version control
-- ✅ Use environment variables for all sensitive data
-- ✅ Disable debug mode (`app.run(debug=False)`)
-- ✅ Implement proper authentication and authorization
-- ✅ Use a production-ready database (PostgreSQL, MySQL)
-- ✅ Use a production WSGI server (Gunicorn, uWSGI)
-- ✅ Enable HTTPS in production
+<img width="608" height="705" alt="image" src="https://github.com/user-attachments/assets/33c0594d-0047-4881-b19c-0c26dc39e147" />
+<img width="797" height="852" alt="image" src="https://github.com/user-attachments/assets/b65467f0-4730-4296-95a6-9c17c131b86b" />
 
 
-Contributions are welcome! Please feel free to submit a Pull Request.
 
-## Support
 
-If you encounter any issues or have questions, please open an issue on GitHub.
+
